@@ -1,0 +1,19 @@
+{
+  "version": "1.2.0",
+  "notes": "更新了一些特性",
+  "pub_date": "2020-09-18T12:29:53+01:00",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEZFODgwNkZFNEU4OTkxQTcKUldTbmtZbE8vZ2FJL2dQNjExUng4bzJiQS9ZVFRBYytjWTBJTE94ZE5kMUhUWEFaWjFKci9Ya28K",
+      "url": "https://github.com/Mario34/tesla-camera/releases/download/v1.0.0/TeslaCamera_1.0.0_x64.dmg"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEZFODgwNkZFNEU4OTkxQTcKUldTbmtZbE8vZ2FJL2dQNjExUng4bzJiQS9ZVFRBYytjWTBJTE94ZE5kMUhUWEFaWjFKci9Ya28K",
+      "url": "https://github.com/Mario34/tesla-camera/releases/download/v1.0.0/TeslaCamera_1.0.0_x64.dmg"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEZFODgwNkZFNEU4OTkxQTcKUldTbmtZbE8vZ2FJL2dQNjExUng4bzJiQS9ZVFRBYytjWTBJTE94ZE5kMUhUWEFaWjFKci9Ya28K",
+      "url": "https://github.com/Mario34/tesla-camera/releases/download/v1.0.0/TeslaCamera_1.0.0_x64_en-US.msi"
+    }
+  }
+}
