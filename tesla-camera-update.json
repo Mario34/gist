@@ -1,19 +1,19 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "notes": "See the assets to download and install this version.",
-  "pub_date": "2023-08-22T07:45:28.108Z",
+  "pub_date": "2023-08-24T06:54:40.218Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbmtZbE8vZ2FJL3BpaXBmdzlNdHJNUGtnVnRSSFhyRFV4TlMrelJRWU9NcDAxMHVhL2hNaEJDZWx2SXc4U0NOTXdRTTRXZXJydnVDakdhbzRYTGZjVWVSSmlTMEJhN1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyNjkwMTA2CWZpbGU6VGVzbGFDYW1lcmEuYXBwLnRhci5negpYOW00MEoramlyVXNOeEhRdFN0bUpvMHZBS0ZSdVBGdjVFRWw1RGx2YUt0c0xSQ1FEZVZ0ckpWMGxESEl3OFBjcDd5WEdGbTRtay9DMGpoWDlxakVBUT09Cg==",
-      "url": "https://github.com/Mario34/tesla-camera/releases/download/v1.1.0/TeslaCamera_x64.app.tar.gz"
-    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbmtZbE8vZ2FJL3YxclhCckI1WVVBcmpyaWl3STJtVyt5WW00bnREaHhhc0doSkoyOVNVSzBEQmY5S3B6a01IWWw0WDlqSkZTd0VEWEVLMWp2RDB5NmlwdUQzeENZaUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyNjkwMjcxCWZpbGU6VGVzbGFDYW1lcmEuYXBwLnRhci5negoybFNMbnBMV3FBU2lvK1BDSDN4NVUwcnFXSjZGSllSSUhrYjlaQ21HT1hiMTBqYkV0clc1RVhFSk10RnlrRTVYUkdrdzVZcjh4NlFvQmZuWWVHRlNCQT09Cg==",
-      "url": "https://github.com/Mario34/tesla-camera/releases/download/v1.1.0/TeslaCamera_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbmtZbE8vZ2FJL3BwU3g0STAwSytRbyt5YjMvS3F0SkV5MHRVRXYrUXF6Zmg5Rm9NTGU1OVcyaUtEeXljRGlnZTh1d1U4dWQzbEZzTFNZSU96RzNKN0dZeXVMTEgxaEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyODU5ODE0CWZpbGU6VGVzbGFDYW1lcmEuYXBwLnRhci5negp0N2FzRDRRcVl2cHI5bUZySkZSUFRjQnpYMG1lZ0pZc2NsRjIwOHJQcmhWMTNXQWxZWm1VaHFnenlPUXdLSWdiOVVZbGxsMkMydStJdUFUamFRWlRBdz09Cg==",
+      "url": "https://github.com/Mario34/tesla-camera/releases/download/v1.1.1/TeslaCamera_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbmtZbE8vZ2FJL2p3RWIwWmQvL3ZrRjZQQ3VJZ1FXME5aNkhsbVREVENRb2tQWXZhbFJWTjJJaUNQSjMwV1BSZVBYQlRYcWJSTkd5aXlVMW9IZ0JiRG5XdEdtRGZlY3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyODU5OTY2CWZpbGU6VGVzbGFDYW1lcmEuYXBwLnRhci5negoxNEJFNkdlOE5xUUEyeFMxSHVqdzlTc1dXbEhvTm9ZTWszRE5QaUIwcjJSeWYzbldCakg3MFhJbWVGUGJZK0pmWlQ2V3B3MW92QzNxd3M5ckUwL3pBUT09Cg==",
+      "url": "https://github.com/Mario34/tesla-camera/releases/download/v1.1.1/TeslaCamera_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbmtZbE8vZ2FJL2dXaFhnOWN2UG0zcXhSVlYwNW1abC9CSjdCY1NsMEZsM2ROSTBZM05tbis3R0xQQU91L2I1c243NWZjQlExcW9nSGo1bHdlRVRyTm9pelR1cEZubWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyNjkwMzIxCWZpbGU6VGVzbGFDYW1lcmFfMS4xLjBfeDY0X2VuLVVTLm1zaS56aXAKNWFYb0JtNjRDcU9zSExZb1lBRmVmYlRJdGJ3Y0RpQnJlWkNrTVNuOCtzd1doNGhnYk54dndQek1YaGVqYkQ5bm5kNkFMNE9yMmNFM0FuTUpBK0dVQ0E9PQo=",
-      "url": "https://github.com/Mario34/tesla-camera/releases/download/v1.1.0/TeslaCamera_1.1.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbmtZbE8vZ2FJL21ycUU3TW1NS3hwdmw5cldvM0xKQnRVbGFGNFdUbUpmUzdDWm90aTNPNjRWL1Z4NFNtalA0RDlON0FmTXpXNnRSTDVJSURObXp0bWI0OHVpNFA1T0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyODYwMDc2CWZpbGU6VGVzbGFDYW1lcmFfMS4xLjFfeDY0X2VuLVVTLm1zaS56aXAKcDh1UU9KZTZ4bk9XNjJkNXNITzJ1VTk1ZFFqYWZobzF2V0p1d1FRV08za2dUQ0VuNDhUY3dRaDdLZU9neDl6SURtNGw2eXRTSjB0dTI5NlYxYmh6REE9PQo=",
+      "url": "https://github.com/Mario34/tesla-camera/releases/download/v1.1.1/TeslaCamera_1.1.1_x64_en-US.msi.zip"
     }
   }
 }
